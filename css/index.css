@@ -194,6 +194,9 @@ body {
     
 }
 
+.contentMap {
+    width: 1000px;
+}
 .mapY {
     width: 100%;
     max-width: 1080px;
