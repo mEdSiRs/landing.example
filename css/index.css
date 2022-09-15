@@ -55,7 +55,7 @@ body {
 }
 
 .download_wrap {
-    background: url(background.jpg) center center no-repeat;
+    background: url(../menu/background.jpg) center center no-repeat;
     background-size: cover;
     padding: 75px 0 145px 0;
     
